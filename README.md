@@ -1,8 +1,8 @@
 # Abdelrahman Mohamed Sayed Hassan Hassan Mohamed Ellathy
 
 <p align="center">
-  <b>Grade:</b> Third Preparatory (الثالث الاعدادي) | <b>Location:</b> 11th District, 2nd Neighborhood, Sheikh Zayed, Giza<br>
-  <b>Phone:</b> 01024389927 | <b>Home:</b> 0238954731 | <b>Email:</b> abdelrahman.ellathy2492011@gmail.com
+  <b>Grade:</b> Secondary One (الاول الثانوي) | <b>Location:</b> Sheikh Zayed, Giza<br>
+  <b>Phone:</b> 01024389927 | <b>Email:</b> abdelrahman.ellathy2492011@gmail.com
 </p>
 
 ---
@@ -90,8 +90,8 @@ Passionate about technology and innovation, with a 10-year track record of achie
 # عبد الرحمن محمد سيد حسن حسن محمد الليثي
 
 <p align="center">
-  <b>الصف الدراسي:</b> الثالث الإعدادي | <b>العنوان:</b> الحي الحادي عشر المجاورة الثانية – الشيخ زايد – الجيزة<br>
-  <b>تليفون:</b> 01024389927 | <b>المنزل:</b> 0238954731 | <b>الايميل:</b> abdelrahman.ellathy2492011@gmail.com
+  <b>الصف الدراسي:</b> الاول الثانوي | <b>العنوان:</b> الشيخ زايد – الجيزة<br>
+  <b>تليفون:</b> 01024389927 | <b>الايميل:</b> abdelrahman.ellathy2492011@gmail.com
 </p>
 
 ---
