@@ -1,90 +1,174 @@
+# Abdelrahman Mohamed Sayed Hassan Hassan Mohamed Ellathy
+
+<p align="center">
+  <b>Grade:</b> Third Preparatory (الثالث الاعدادي) | <b>Location:</b> 11th District, 2nd Neighborhood, Sheikh Zayed, Giza<br>
+  <b>Phone:</b> 01024389927 | <b>Home:</b> 0238954731 | <b>Email:</b> abdelrahman.ellathy2492011@gmail.com
+</p>
+
+---
+
+## 🌟 Profile Summary
+Passionate about technology and innovation, with a 10-year track record of achievements in programming, artificial intelligence, and robotics.
+
+---
+
+## 🏆 Achievements
+* 🥇 **1st Place nationwide in the Arab Republic of Egypt** in the Programming and Artificial Intelligence Competition by the Ministry of Education (2025), 1st Place in Sheikh Zayed Administration, and 1st Place in Giza Governorate.
+* 🥉 **3rd Place nationwide** in the Young Innovator Competition by the Ministry of Education (2025), 1st Place in Sheikh Zayed Administration, and 1st Place in Giza Governorate.
+* 🏅 **6th & 7th Place nationwide** in Technology Competitions by the Ministry of Education (2025), 1st Place in Sheikh Zayed Administration, and 1st Place in Giza Governorate.
+* 🥇 **1st Place in Giza Governorate** in the Digital October Champions Competitions (2025) by Giza Information Technology Academy.
+* 🥈 **2nd Place in Giza Governorate** in the AI Animation Competitions (2024) by Giza Information Technology Academy.
+
+---
+
+## 🛠️ Technical Skills
+* **Programming:** Expertise in programming languages and practical applications.
+* **Artificial Intelligence (AI):** Understanding and applying AI techniques to solve problems.
+* **Robotics:** Designing and programming automated and robotic systems.
+* **Project Development:** 10 years of experience building and developing integrated technical projects.
+
+---
+
+## 📜 Training Courses & Certifications
+* AI Basic Overview of AI (CRA Training Program)
+* Cloud Computing
+* Data Analysis
+* Information Representation and Data Organization
+* Overview of AI
+* Python Programming Basics
+* AI Fundamentals with IBM SkillsBuild
+* Cyber Threat Management
+* Endpoint Security
+* English for IT 1
+* English for IT 2
+* Hardware and Upgrade Support
+* Introduction to Cybersecurity
+* Introduction to Modern AI
+* IT Customer Support Basics
+* Network Addressing and Basic Troubleshooting
+* Network Defense
+* Network Support and Security
+* Networking Basics
+* Networking Devices and Initial Configuration
+* Operating Systems Support
+* Security and Connectivity Support
+* The AUC's Fun Lab
+* Robotics Course
+* Learn Python From A Book
+* Internet Heroes
+* Fundamentals of Digital Marketing
+* Introduction To Computer Science
+* Our World With AI
+* Digital Egypt Pioneers Initiative (DECI) by the Ministry of Communications and Information Technology
+* Self-learning through various platforms such as (CodeZilla channel, Elzero Web School, Huawei Global Platform, Cisco Global Platform, Google)
+
+---
+
+## 🚀 Applied Projects Examples
+1. **Smart Health Monitoring System:** Detecting drowsiness and dizziness.
+2. **Educational Platform for AI and Robotics:** Interactive learning environment.
+3. **Interactive Modern Periodic Table & Virtual Science Lab:** Virtual chemistry and science simulation.
+4. **Green Egypt:** Strategic roadmap towards a sustainable future.
+5. **My Country's Achievements:** Egyptian national achievements digital portal.
+
+---
+
+## 🧠 Soft Skills
+* **Leadership:** Ability to lead technical teams in competitions.
+* **Problem Solving:** Advanced analytical thinking resulting from programming practice.
+* **Self-Learning:** Ability to independently keep up with the latest technological developments.
+
+---
+
+## 🗣️ Languages
+* **Arabic:** Native Language.
+* **English:** Very Good (Speaking & Writing).
+
+---
+---
+
 # عبد الرحمن محمد سيد حسن حسن محمد الليثي
 
 <p align="center">
-  <b>الصف الدراسي:</b> الأول الثانوي | <b>المحافظة:</b> الجيزة (الشيخ زايد)<br>
-  <b>الهاتف:</b> 01024389927 | <b>البريد الإلكتروني:</b> abdelrahman.ellathy2492011@gmail.com
+  <b>الصف الدراسي:</b> الثالث الإعدادي | <b>العنوان:</b> الحي الحادي عشر المجاورة الثانية – الشيخ زايد – الجيزة<br>
+  <b>تليفون:</b> 01024389927 | <b>المنزل:</b> 0238954731 | <b>الايميل:</b> abdelrahman.ellathy2492011@gmail.com
 </p>
 
 ---
 
 ## 🌟 نبذة تعريفية
-شغوف بالتكنولوجيا والابتكار، وامتلك مسيرة حافلة بالإنجازات تمتد لـ 10 سنوات في مجالات البرمجة والذكاء الاصطناعي والروبوتات. أسعى دائماً لتوظيف التقنية المتقدمة لحل المشكلات الواقعية وخدمة المجتمع من خلال مشاريع برمجية وابتكارية متكاملة.
+شغوف بالتكنولوجيا والابتكار، وامتلك مسيرة حافلة بالإنجازات تمتد لـ 10 سنوات في مجالات البرمجة والذكاء الاصطناعي والروبوتات.
 
 ---
 
-## 🏆 الإنجازات والجوائز
-
-* 🥇 **المركز الأول على مستوى جمهورية مصر العربية** في مسابقة البرمجة والذكاء الاصطناعي التابعة لوزارة التربية والتعليم (٢٠٢٥)، والمركز الأول على إدارة الشيخ زايد والمركز الأول على مستوى محافظة الجيزة.
-* 🥉 **المركز الثالث على مستوى الجمهورية** في مسابقة المبتكر الصغير التابعة لوزارة التربية والتعليم (٢٠٢٥)، والمركز الأول على إدارة الشيخ زايد والمركز الأول على مستوى محافظة الجيزة.
-* 🏅 **المركز السادس والسابع على مستوى الجمهورية** في مسابقات تكنولوجية تابعة لوزارة التربية والتعليم (٢٠٢٥)، والمركز الأول على إدارة الشيخ زايد والمركز الأول على مستوى محافظة الجيزة.
-* 🥇 **المركز الأول على مستوى محافظة الجيزة** في مسابقات أبطال أكتوبر الرقميين (٢٠٢٥) التابعة لأكاديمية تكنولوجيا المعلومات بالجيزة.
-* 🥈 **المركز الثاني على مستوى محافظة الجيزة** في مسابقات أنيميشن بالذكاء الاصطناعي (٢٠٢٤) التابعة لأكاديمية تكنولوجيا المعلومات بالجيزة.
+## 🏆 الإنجازات
+* 🥇 **حائز على المركز الأول على مستوى جمهورية مصر العربية** في مسابقة البرمجة والذكاء الاصطناعي التابعة لوزارة التربية والتعليم ٢٠٢٥، والمركز الأول على إدارة الشيخ زايد والمركز الأول على مستوى محافظة الجيزة.
+* 🥉 **حائز على المركز الثالث على مستوى الجمهورية** فى مسابقة المبتكر الصغير ٢٠٢٥ التابعة لوزارة التربية والتعليم، والمركز الأول على إدارة الشيخ زايد والمركز الأول على مستوى محافظة الجيزة.
+* 🏅 **حائز على المركز السادس والسابع على مستوى الجمهورية** فى مسابقات تكنولوجية ٢٠٢٥ تابعة لوزارة التربية والتعليم، والمركز الأول على إدارة الشيخ زايد والمركز الأول على مستوى محافظة الجيزة.
+* 🥇 **حائز على الأول على مستوى محافظة الجيزة** فى مسابقات أبطال أكتوبر الرقميين ٢٠٢٥ تابعة لأكاديمية تكنولوجيا المعلومات بالجيزة.
+* 🥈 **حائز على الثاني على مستوى محافظة الجيزة** فى مسابقات أنيميشن بالذكاء الاصطناعي ٢٠٢٤ تابعة لأكاديمية تكنولوجيا المعلومات بالجيزة.
 
 ---
 
 ## 🛠️ المهارات التقنية
-
-* **البرمجة (Programming):** خبرة واسعة في لغات البرمجة وتطبيقاتها العملية.
-* **الذكاء الاصطناعي (AI):** فهم وتطبيق تقنيات الذكاء الاصطناعي في حل المشكلات المتقدمة.
+* **البرمجة (Programming):** خبرة في لغات البرمجة وتطبيقاتها العملية.
+* **الذكاء الاصطناعي (AI):** فهم وتطبيق تقنيات الذكاء الاصطناعي في حل المشكلات.
 * **الروبوتات (Robotics):** تصميم وبرمجة الأنظمة الآلية والروبوتية.
-* **تطوير المشاريع:** بناء وتطوير مشاريع تقنية متكاملة وخبرة طويلة في التطوير والابتكار.
+* **تطوير المشاريع:** العمل على مدار 10 سنوات في بناء وتطوير مشاريع تقنية متكاملة.
 
 ---
 
-## 📜 الدورات التدريبية والشهادات
-
-### الشهادات المتخصصة والتقنية
+## 📜 الدورات التدريبية
 * AI Basic Overview of AI (CRA Training Program)
-* Cloud Computing & Data Analysis
+* Cloud Computing
+* Data Analysis
 * Information Representation and Data Organization
-* Overview of AI & Introduction to Modern AI
-* Python Programming Basics & Learn Python From A Book
+* Overview of AI
+* Python Programming Basics
 * AI Fundamentals with IBM SkillsBuild
-* Cyber Threat Management & Endpoint Security
-* Introduction to Cybersecurity & Network Defense
+* Cyber Threat Management
+* Endpoint Security
+* English for IT 1
+* English for IT 2
+* Hardware and Upgrade Support
+* Introduction to Cybersecurity
+* Introduction to Modern AI
+* IT Customer Support Basics
 * Network Addressing and Basic Troubleshooting
-* Network Support and Security & Networking Basics
+* Network Defense
+* Network Support and Security
+* Networking Basics
 * Networking Devices and Initial Configuration
-* Operating Systems Support, Security and Connectivity Support
-* English for IT 1 & English for IT 2
-* Hardware and Upgrade Support & IT Customer Support Basics
-
-### البرامج والمبادرات الوطنية
-* مبادرة أشبال مصر الرقمية (DECI) التابعة لوزارة الاتصالات وتكنولوجيا المعلومات.
+* Operating Systems Support
+* Security and Connectivity Support
 * The AUC's Fun Lab
 * Robotics Course
-* Internet Heroes & Fundamentals of Digital Marketing
-* Introduction To Computer Science & Our World With AI
-
-### مصادر التعلم الذاتي
-الاعتماد المستمر على منصات ومصادر التعلم الذاتي المتقدمة مثل:
-* قناة CodeZilla
-* موقع أكاديمية الزيرو (Elzero Web School)
-* منصة هواوي العالمية (Huawei Academy)
-* منصة سيسكو العالمية (Cisco Networking Academy)
-* مصادر جوجل التعليمية
+* Learn Python From A Book
+* Internet Heroes
+* Fundamentals of Digital Marketing
+* Introduction To Computer Science
+* Our World With AI
+* مبادرة أشبال مصر الرقمية (DECI) التابعة لوزارة الاتصالات وتكنولوجيا المعلومات
+* التعلم الذاتي من خلال العديد من المواقع مثل (قناة CodeZilla - موقع أكاديمية الزيرو - منصة هواوي العالمية - منصة سيسكو العالمية – جوجل)
 
 ---
 
 ## 🚀 أمثلة للمشاريع التطبيقية المنفذة
-
-1. **نظام مراقبة الصحة الذكي:** نظام متطور للكشف عن النعاس والدوار لتعزيز السلامة المرورية.
-2. **منصة تعليمية للذكاء الاصطناعي والروبوتات:** بيئة تعليمية تفاعلية لتبسيط علوم التقنية للأجيال الناشئة.
-3. **جدول دوري حديث تفاعلي ومختبر علوم افتراضي:** تطبيق ويب متكامل لمحاكاة التجارب الكيميائية والفيزيائية.
-4. **مصر الخضراء:** خارطة طريق استراتيجية نحو مستقبل مستدام وبيئة خضراء ذكية.
-5. **إنجازات بلدي:** بوابة رقمية متكاملة تبرز الإنجازات الوطنية المصرية الحديثة.
+1. **نظام مراقبة الصحة الذكي:** الكشف عن النعاس والدوار.
+2. **منصة تعليمية للذكاء الاصطناعي والروبوتات.**
+3. **جدول دوري حديث تفاعلي ومختبر علوم افتراضي.**
+4. **مصر الخضراء:** خارطة طريق استراتيجية نحو مستقبل مستدام.
+5. **إنجازات بلدي:** بوابة الإنجازات الوطنية المصرية.
 
 ---
 
 ## 🧠 المهارات الشخصية
-
-* **القيادة:** القدرة المتميزة على قيادة وتوجيه الفرق التقنية في المسابقات والفعاليات.
-* **حل المشكلات:** تفكير تحليلي متطور ناتج عن التمرس العميق في البرمجة وهندسة النظم.
-* **التعلم الذاتي:** القدرة الفائقة على مواكبة أحدث التطورات التكنولوجية بشكل مستقل ومستمر.
+* **القيادة:** القدرة على قيادة الفرق التقنية في المسابقات.
+* **حل المشكلات:** تفكير تحليلي متطور ناتج عن التمرس في البرمجة.
+* **التعلم الذاتي:** القدرة على مواكبة أحدث التطورات في مجالات التكنولوجيا بشكل مستقل.
 
 ---
 
 ## 🗣️ اللغات
-
 * **اللغة العربية:** اللغة الأم.
-* **اللغة الإنجليزية:** جيد جداً تحدثاً وكتابة.
+* **اللغة الإنجليزية:** جيد جداً تحدث وكتابة.
