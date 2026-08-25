@@ -1,4 +1,4 @@
-# Abdelrahman Mohamed Sayed Hassan Hassan Mohamed Ellathy
+# Abdelrahman Mohamed Ellathy
 
 <p align="center">
   <b>Grade:</b> Secondary One (الاول الثانوي) | <b>Location:</b> Sheikh Zayed, Giza<br>
@@ -87,7 +87,7 @@ Passionate about technology and innovation, with a 10-year track record of achie
 ---
 ---
 
-# عبد الرحمن محمد سيد حسن حسن محمد الليثي
+# عبد الرحمن محمد الليثي
 
 <p align="center">
   <b>الصف الدراسي:</b> الاول الثانوي | <b>العنوان:</b> الشيخ زايد – الجيزة<br>
