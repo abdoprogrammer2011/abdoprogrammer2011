@@ -1,90 +1,174 @@
-👋 مرحباً، أنا عبد الرحمن محمد سيد حسن حسن محمد الليثي
+# Abdelrahman Mohamed Ellathy
+
 <p align="center">
-  <b>طالب بالصف الأول الثانوي — مبرمج ومطوّر ويب | متخصص في الأمن السيبراني والذكاء الاصطناعي والأنظمة المدمجة</b><br>
-  📍 الشيخ زايد — الجيزة | 📞 01024389927 | ✉️ abdelrahmanellathy.official@gmail.com
+  <b>Grade:</b> Secondary One (الاول الثانوي) | <b>Location:</b> Sheikh Zayed, Giza<br>
+  <b>Phone:</b> 01024389927 | <b>Email:</b> abdelrahman.ellathy2492011@gmail.com
 </p>
+
 ---
-🚀 نبذة عني
-شغوف بالتكنولوجيا والابتكار، بدأت رحلتي من الصغر في البرمجة والذكاء الاصطناعي والروبوتات والأمن السيبراني والالكترونيات والأنظمة المدمجة (Embedded Systems). حقّقت مراكز متقدمة على مستوى الجمهورية، وأشارك في مبادرات وطنية ومسابقات تقنية، وأقوم بتصميم وتنفيذ وتطوير منصات ويب حية.
+
+## 🌟 Profile Summary
+Passionate about technology and innovation, with a 10-year track record of achievements in programming, artificial intelligence, and robotics.
+
 ---
-🏆 أبرز الإنجازات والمسابقات
-المركز الأول في مسابقة CTF (الأمن السيبراني) بالعاصمة الإدارية الجديدة، وتم تكريمي من أ.د/ أحمد خطاب مدير المعهد القومي للاتصالات (NTI).
-المركز الأول على مستوى الجمهورية في مسابقة البرمجة والذكاء الاصطناعي التابعة لوزارة التربية والتعليم 2025.
-المركز الثالث على مستوى الجمهورية في مسابقة المبتكر الصغير 2025 (وزارة التربية والتعليم).
-المركزان السادس والسابع على مستوى الجمهورية في مسابقات تكنولوجية 2026 (وزارة التربية والتعليم).
-المركز الأول على مستوى محافظة الجيزة في مسابقة أبطال أكتوبر الرقميين 2025 التابعة لأكاديمية تكنولوجيا المعلومات بالجيزة.
-المركز الثاني على مستوى محافظة الجيزة في مسابقة الأنيميشن بالذكاء الاصطناعي 2024.
-المشاركة في Egypt HackerOne Club CTF بجامعة النيل.
-المشاركة في ملتقى البحوث الطلابية UGRF بجامعة النيل.
+
+## 🏆 Achievements
+* 🥇 **1st Place nationwide in the Arab Republic of Egypt** in the Programming and Artificial Intelligence Competition by the Ministry of Education (2025), 1st Place in Sheikh Zayed Administration, and 1st Place in Giza Governorate.
+* 🥉 **3rd Place nationwide** in the Young Innovator Competition by the Ministry of Education (2025), 1st Place in Sheikh Zayed Administration, and 1st Place in Giza Governorate.
+* 🏅 **6th & 7th Place nationwide** in Technology Competitions by the Ministry of Education (2025), 1st Place in Sheikh Zayed Administration, and 1st Place in Giza Governorate.
+* 🥇 **1st Place in Giza Governorate** in the Digital October Champions Competitions (2025) by Giza Information Technology Academy.
+* 🥈 **2nd Place in Giza Governorate** in the AI Animation Competitions (2024) by Giza Information Technology Academy.
+
 ---
-🎖️ التكريمات والفعاليات الوطنية
-تكريم من أ.د/ أحمد الخطاب مدير المعهد القومي للاتصالات (NTI).
-تكريم من مدير إدارة الشيخ زايد التعليمية بشهادة تقدير ودرع تذكاري.
-تكريم من وكيل أول مديرية التعليم بالجيزة.
-التكريم من موجه عام الكمبيوتر وتكنولوجيا المعلومات بمديرية التربية والتعليم بمحافظة الجيزة عدة مرات.
-دعوة لحضور مبادرة «صيفك رقمي» التابعة لصندوق تطوير التعليم بالتعاون مع وزارة التربية والتعليم وشركة Cisco.
-دعوة لحضور مبادرة «شتاءك رقمي» التابعة لصندوق تطوير التعليم بالتعاون مع وزارة التربية والتعليم وشركة Cisco العالمية، بحضور رئيس الوزراء د. مصطفى مدبولي نيابةً عن رئيس الجمهورية عبد الفتاح السيسي.
-دعوة لحضور احتفالية المعهد القومي للاتصالات (NTI) بمدينة المعرفة بالعاصمة الإدارية الجديدة، بحضور وزير الاتصالات وتكنولوجيا المعلومات المهندس/ رأفت هندي وقيادات الوزارة ونخبة من كبرى الشركات العالمية والمحلية.
+
+## 🛠️ Technical Skills
+* **Programming:** Expertise in programming languages and practical applications.
+* **Artificial Intelligence (AI):** Understanding and applying AI techniques to solve problems.
+* **Robotics:** Designing and programming automated and robotic systems.
+* **Project Development:** 10 years of experience building and developing integrated technical projects.
+
 ---
-💻 أبرز المشاريع البرمجية
-المنصة الرقمية لمبادرة «مليون رخصة دولية»: منصة لطلاب محافظة الجيزة (Live Demo).
-PocketWise: تطبيق ويب تفاعلي لإدارة المصروفات اليومية للأطفال، مع لوحة تحكم للآباء (Live Demo).
-OVID: منصة تجارة إلكترونية متكاملة بلوحة تحكم متقدمة لإدارة المنتجات والمخزون ونظام محاسبي للموردين (Live Demo).
-Yawmia ERP: منصة سحابية لإدارة موارد المؤسسات (ERP) مع لوحة تحكم لإدارة المنصة والاشتراكات (Live Demo).
-🌐 مشاريع أخرى
-منصة تعليمية للذكاء الاصطناعي والروبوتات.
-جدول دوري تفاعلي ومختبر علوم افتراضي.
-مشروع «مصر الخضراء» (خارطة طريق نحو مستقبل مستدام).
-مشروع إنجازات بلدي (بوابة الإنجازات الوطنية المصرية).
+
+## 📜 Training Courses & Certifications
+* AI Basic Overview of AI (CRA Training Program)
+* Cloud Computing
+* Data Analysis
+* Information Representation and Data Organization
+* Overview of AI
+* Python Programming Basics
+* AI Fundamentals with IBM SkillsBuild
+* Cyber Threat Management
+* Endpoint Security
+* English for IT 1
+* English for IT 2
+* Hardware and Upgrade Support
+* Introduction to Cybersecurity
+* Introduction to Modern AI
+* IT Customer Support Basics
+* Network Addressing and Basic Troubleshooting
+* Network Defense
+* Network Support and Security
+* Networking Basics
+* Networking Devices and Initial Configuration
+* Operating Systems Support
+* Security and Connectivity Support
+* The AUC's Fun Lab
+* Robotics Course
+* Learn Python From A Book
+* Internet Heroes
+* Fundamentals of Digital Marketing
+* Introduction To Computer Science
+* Our World With AI
+* Digital Egypt Pioneers Initiative (DECI) by the Ministry of Communications and Information Technology
+* Self-learning through various platforms such as (CodeZilla channel, Elzero Web School, Huawei Global Platform, Cisco Global Platform, Google)
+
 ---
-🤖 مشاريع الأنظمة المدمجة (Embedded Systems) والروبوتات
-جهاز بديل الهولتر في المستشفيات لمتابعة مستويات الأكسجين في الدم وضربات القلب عن بعد.
-نظام الأمن الذكي وإدارة الحضور المدرسي الآلي.
-نظام مراقبة الصحة الذكي (الكشف عن النعاس والدوار).
-تطوير روبوت ذكي لخدمة الحجاج مدعوم بالذكاء الاصطناعي لإدارة الحشود.
-روبوت ذكي بهيئة الملك رمسيس الثاني يعتمد على نماذج الذكاء الاصطناعي متعددة اللغات، والواقع الافتراضي (VR)، والتحكم الذاتي، لتقديم جولات تفاعلية، وسياحة عن بُعد، وخدمات ذكية للزوار.
-مشروع الإنارة الذكية.
+
+## 🚀 Applied Projects Examples
+1. **Smart Health Monitoring System:** Detecting drowsiness and dizziness.
+2. **Educational Platform for AI and Robotics:** Interactive learning environment.
+3. **Interactive Modern Periodic Table & Virtual Science Lab:** Virtual chemistry and science simulation.
+4. **Green Egypt:** Strategic roadmap towards a sustainable future.
+5. **My Country's Achievements:** Egyptian national achievements digital portal.
+
 ---
-📜 الشهادات الدولية والدورات التدريبية المعتمدة
-Cisco Certified Support Technician — Networking (CCST)
-Cisco Certified Support Technician — Cybersecurity (CCST)
-خريج الأكاديمية الوطنية للتدريب برئاسة الجمهورية — برنامج تأهيل النشء على القيادة (JPLP).
-1st Place In Egypt Cyber Heroes Hackathon 2026.
-Cyber Security Super Hero Academy 2026.
-Completing Level 3 of (DECI).
-Swimming Certificate From UFC Gym.
-📚 الدورات والبرامج التدريبية الكاملة:
-الدورات والتدريبات التقنية	
-Basic Overview of AI (CRA Training Program)	Network Addressing and Basic Troubleshooting
-Cloud Computing	Network Defense
-Data Analysis	Network Support and Security
-Information Representation and Data Organization	Networking Basics
-Overview of AI	Networking Devices and Initial Configuration
-Python Programming Basics	Operating Systems Support
-AI Fundamentals with IBM SkillsBuild	Security and Connectivity Support
-Cyber Threat Management	The AUC's Fun Lab
-Endpoint Security	Robotics Course
-English for IT 1	Learn Python From A Book
-English for IT 2	Internet Heroes
-Hardware and Upgrade Support	Fundamentals of Digital Marketing
-Introduction to Cybersecurity	Introduction To Computer Science
-Introduction to Modern AI	Our World With AI
-IT Customer Support Basic	Math For Kids
+
+## 🧠 Soft Skills
+* **Leadership:** Ability to lead technical teams in competitions.
+* **Problem Solving:** Advanced analytical thinking resulting from programming practice.
+* **Self-Learning:** Ability to independently keep up with the latest technological developments.
+
 ---
-🛠️ الخبرات والأنشطة
-تقديم محاضرة عن بناء المواقع باستخدام الذكاء الاصطناعي برعاية أكاديمية تكنولوجيا المعلومات بالجيزة.
-التعلم الذاتي من خلال قناة Codezilla، وموقع أكاديمية الزيرو، ومنصة هواوي العالمية، ومنصة سيسكو العالمية، وجوجل.
-تقديم عرض مسرحي عن الذكاء الاصطناعي برعاية مسؤول الموهوبين والتعلم الذكي بالإدارة التعليمية.
+
+## 🗣️ Languages
+* **Arabic:** Native Language.
+* **English:** Very Good (Speaking & Writing).
+
 ---
-🛠️ المهارات التقنية واللغات
-البرمجة وتطوير الويب: بناء منصات وتطبيقات ويب متكاملة بلغات متعددة وبمساعدة الذكاء الاصطناعي.
-الأمن السيبراني والشبكات: مسابقات CTF وشهادات CCST في الشبكات والأمن السيبراني.
-الذكاء الاصطناعي والروبوتات: تصميم وبرمجة الأنظمة الآلية والذكية.
-القيادة وحل المشكلات: قيادة الفرق التقنية في المسابقات، والتفكير التحليلي.
-اللغات: اللغة العربية (اللغة الأم) | اللغة الإنجليزية (جيد جدًا تحدثًا وكتابةً).
 ---
-📱 حسابات التواصل والـ QR Codes
+
+# عبد الرحمن محمد الليثي
+
 <p align="center">
-  <br>
-  🔗 <b>تابعني وتواصل معي عبر الروابط المضمنة في أكواد QR أدناه:</b>
+  <b>الصف الدراسي:</b> الاول الثانوي | <b>العنوان:</b> الشيخ زايد – الجيزة<br>
+  <b>تليفون:</b> 01024389927 | <b>الايميل:</b> abdelrahman.ellathy2492011@gmail.com
 </p>
+
+---
+
+## 🌟 نبذة تعريفية
+شغوف بالتكنولوجيا والابتكار، وامتلك مسيرة حافلة بالإنجازات تمتد لـ 10 سنوات في مجالات البرمجة والذكاء الاصطناعي والروبوتات.
+
+---
+
+## 🏆 الإنجازات
+* 🥇 **حائز على المركز الأول على مستوى جمهورية مصر العربية** في مسابقة البرمجة والذكاء الاصطناعي التابعة لوزارة التربية والتعليم ٢٠٢٥، والمركز الأول على إدارة الشيخ زايد والمركز الأول على مستوى محافظة الجيزة.
+* 🥉 **حائز على المركز الثالث على مستوى الجمهورية** فى مسابقة المبتكر الصغير ٢٠٢٥ التابعة لوزارة التربية والتعليم، والمركز الأول على إدارة الشيخ زايد والمركز الأول على مستوى محافظة الجيزة.
+* 🏅 **حائز على المركز السادس والسابع على مستوى الجمهورية** فى مسابقات تكنولوجية ٢٠٢٥ تابعة لوزارة التربية والتعليم، والمركز الأول على إدارة الشيخ زايد والمركز الأول على مستوى محافظة الجيزة.
+* 🥇 **حائز على الأول على مستوى محافظة الجيزة** فى مسابقات أبطال أكتوبر الرقميين ٢٠٢٥ تابعة لأكاديمية تكنولوجيا المعلومات بالجيزة.
+* 🥈 **حائز على الثاني على مستوى محافظة الجيزة** فى مسابقات أنيميشن بالذكاء الاصطناعي ٢٠٢٤ تابعة لأكاديمية تكنولوجيا المعلومات بالجيزة.
+
+---
+
+## 🛠️ المهارات التقنية
+* **البرمجة (Programming):** خبرة في لغات البرمجة وتطبيقاتها العملية.
+* **الذكاء الاصطناعي (AI):** فهم وتطبيق تقنيات الذكاء الاصطناعي في حل المشكلات.
+* **الروبوتات (Robotics):** تصميم وبرمجة الأنظمة الآلية والروبوتية.
+* **تطوير المشاريع:** العمل على مدار 10 سنوات في بناء وتطوير مشاريع تقنية متكاملة.
+
+---
+
+## 📜 الدورات التدريبية
+* AI Basic Overview of AI (CRA Training Program)
+* Cloud Computing
+* Data Analysis
+* Information Representation and Data Organization
+* Overview of AI
+* Python Programming Basics
+* AI Fundamentals with IBM SkillsBuild
+* Cyber Threat Management
+* Endpoint Security
+* English for IT 1
+* English for IT 2
+* Hardware and Upgrade Support
+* Introduction to Cybersecurity
+* Introduction to Modern AI
+* IT Customer Support Basics
+* Network Addressing and Basic Troubleshooting
+* Network Defense
+* Network Support and Security
+* Networking Basics
+* Networking Devices and Initial Configuration
+* Operating Systems Support
+* Security and Connectivity Support
+* The AUC's Fun Lab
+* Robotics Course
+* Learn Python From A Book
+* Internet Heroes
+* Fundamentals of Digital Marketing
+* Introduction To Computer Science
+* Our World With AI
+* مبادرة أشبال مصر الرقمية (DECI) التابعة لوزارة الاتصالات وتكنولوجيا المعلومات
+* التعلم الذاتي من خلال العديد من المواقع مثل (قناة CodeZilla - موقع أكاديمية الزيرو - منصة هواوي العالمية - منصة سيسكو العالمية – جوجل)
+
+---
+
+## 🚀 أمثلة للمشاريع التطبيقية المنفذة
+1. **نظام مراقبة الصحة الذكي:** الكشف عن النعاس والدوار.
+2. **منصة تعليمية للذكاء الاصطناعي والروبوتات.**
+3. **جدول دوري حديث تفاعلي ومختبر علوم افتراضي.**
+4. **مصر الخضراء:** خارطة طريق استراتيجية نحو مستقبل مستدام.
+5. **إنجازات بلدي:** بوابة الإنجازات الوطنية المصرية.
+
+---
+
+## 🧠 المهارات الشخصية
+* **القيادة:** القدرة على قيادة الفرق التقنية في المسابقات.
+* **حل المشكلات:** تفكير تحليلي متطور ناتج عن التمرس في البرمجة.
+* **التعلم الذاتي:** القدرة على مواكبة أحدث التطورات في مجالات التكنولوجيا بشكل مستقل.
+
+---
+
+## 🗣️ اللغات
+* **اللغة العربية:** اللغة الأم.
+* **اللغة الإنجليزية:** جيد جداً تحدث وكتابة.
